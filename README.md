@@ -1,4 +1,4 @@
 placeyourself
 =============
 
-Aplicación mobil
+Aplicación movil
